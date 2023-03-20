@@ -4,7 +4,7 @@
   "description": "![Yo](./imagenes/imagen1.jpg \"Representando a UNPAZ en EconAr 2023\")",
   "main": "app.js",
   "scripts": {
-    "start":"node ./src/app.js",
+    "start": "node ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/ignacio-leonel/presentacion#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {}
 }
