@@ -1,0 +1,23 @@
+{
+  "name": "presentacion",
+  "version": "1.0.0",
+  "description": "![Yo](./imagenes/imagen1.jpg \"Representando a UNPAZ en EconAr 2023\")",
+  "main": "app.js",
+  "scripts": {
+    "start":"node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacio-leonel/presentacion.git"
+  },
+  "author": "Ignacio Leonel Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacio-leonel/presentacion/issues"
+  },
+  "homepage": "https://github.com/ignacio-leonel/presentacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
